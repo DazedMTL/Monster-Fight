@@ -1,0 +1,4218 @@
+[
+    null,
+    {
+        "id": 1,
+        "members": [
+            {
+                "enemyId": 1,
+                "x": 156,
+                "y": 274,
+                "hidden": false
+            }
+        ],
+        "name": "アノマロカリスモスマン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 1,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-kougeki1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen1.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "シャッ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            3
+                        ]
+                    },
+                    {
+                        "code": 356,
+                        "indent": 0,
+                        "parameters": [
+                            "MP_動画設定 anoslash1"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            21,
+                            "",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 356,
+                        "indent": 0,
+                        "parameters": [
+                            "MP_SET_VOLUME_TYPE 21 BGM"
+                        ]
+                    },
+                    {
+                        "code": 356,
+                        "indent": 0,
+                        "parameters": [
+                            "MP_SET_WAIT 21"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ぐっ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(強い…！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "調子付かせると、怖いタイプだな…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ここらで、特製のキバで戦う気を削いでおくか！)"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "くらえ…、カンブリアンニードル！！！"
+                        ]
+                    },
+                    {
+                        "code": 356,
+                        "indent": 0,
+                        "parameters": [
+                            "MP_動画設定 anoslash2"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            21,
+                            "",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 356,
+                        "indent": 0,
+                        "parameters": [
+                            "MP_SET_VOLUME_TYPE 21 BGM"
+                        ]
+                    },
+                    {
+                        "code": 356,
+                        "indent": 0,
+                        "parameters": [
+                            "MP_SET_WAIT 21"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "……！？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ああっ…、シャーク大公のマスクが！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "あのキバで破ったのか…？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "たしか、アノマロカリスモスマンのキバはウレタン製…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "どんなパワーを出せば、シャーク大公のサメ皮マスクを破れるんだ…？"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "バニーちゃん:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ああっと、シャーク大公のコスチュームが破損してしまいました！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "意図的に、怪人ボディやコスチュームを破壊する行為は、固く禁じられてますが〜…"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "モスモスモス…、わざとじゃねえんだぜ〜？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "カンブリアンニードルの威力が、予想以上に強すぎてね…。"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ふん…、この程度…"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ざわざわ…"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "なぁ、シャーク大公、めちゃくちゃ可愛くねえ！？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "マスクしてても、美少女だとは思ってたけど、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "想像してたより、何十倍も綺麗な顔してんだけど！"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "いや、ツラが良すぎるだろ…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "なんだあれ…、エッグい美少女じゃねーか！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "半端ねーぞ、マジで…。"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho2.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "う……………………。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ちょっと待て…、俺、あの子、見たことあるぞ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ギザギザマートでバイトしてる子だよ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "そういや、あそこはサメブロッコリーがオーナーだったな…。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "えっ、サメ山ちゃんか！？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "あー、確かに、間違いねえ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アルバイトのサメ山メミミちゃんだ…、普段は学生で、泥得学園の生徒会長だぞ！"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "そうなの！？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "へえ、まだ学生なのか…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "泥得学園生徒会長、サメ山メミミ…。へー…。"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho2.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-guruguru1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(正体がバレた…！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "やばっ…、会場中に、本名と学校名が…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "これ、明日には、街中に伝わってしまうぞ…！)"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(おっ、身バレしやがった！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "怪人が恐れる出来事ランキング不動の一位、素顔と本名バレ…！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "こりゃ、相当な動揺を誘えるぜ〜！)"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho2.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(ぐむむ…、い、今は平常心…、戦いに集中せねば…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "どうしよう…、あ、後から…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "いや、とにかくそれは後、後…！)"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-emi1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ふん…、正体がバレたから、なんだというのか…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマンよ、マスクを破った程度のことが、そんなに嬉しいか？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "こんなくだらんハプニングで、勝ちを拾う気もないわ…、早く再開せよ！"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "そうこなくっちゃな！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ワザと破った訳じゃねえってことは、よく分かったろ？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "おら、相手さんもそー言ってることだし、再開、再開！"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(くくく…、プライドが高い奴のことだ、不戦勝なんぞ欲しがらねえに決まってる…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "平然としちゃいるが、さっきのアノマロカリス牙の攻撃は、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "確実に深層心理に恐怖を植え付けたはずだ！！)"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "バニーちゃん:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "それじゃ、再開しま〜す❤︎"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ファイトっ！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho2.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(くっそ…、奴の技はどーでもいいのだが、マスクを破られたのは、痛手だ…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "特注で、これ一枚しかないのに…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "正体バレるし…、最悪…。)"
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            3
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            10
+                        ]
+                    },
+                    {
+                        "code": 318,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            22
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "members": [
+            {
+                "enemyId": 1,
+                "x": 156,
+                "y": 274,
+                "hidden": false
+            }
+        ],
+        "name": "アノマロカリスモスマン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "members": [
+            {
+                "enemyId": 3,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "オーク",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ミノタウロス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 156,
+                "y": 277,
+                "hidden": false
+            }
+        ],
+        "name": "ケルベロスオクトパス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "members": [
+            {
+                "enemyId": 3,
+                "x": 156,
+                "y": 265,
+                "hidden": false
+            }
+        ],
+        "name": "シャチ市長",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 150,
+                "y": 280,
+                "hidden": false
+            }
+        ],
+        "name": "ダイナマイトアワビ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "members": [
+            {
+                "enemyId": 5,
+                "x": 141,
+                "y": 265,
+                "hidden": false
+            }
+        ],
+        "name": "シャチブロッコリー市長",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "members": [
+            {
+                "enemyId": 1,
+                "x": 156,
+                "y": 274,
+                "hidden": false
+            }
+        ],
+        "name": "アノマロカリスモスマンold",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 1,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 334,
+                        "indent": 0,
+                        "parameters": [
+                            -1
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-kougeki1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen1.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "シャッ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            3
+                        ]
+                    },
+                    {
+                        "code": 261,
+                        "indent": 0,
+                        "parameters": [
+                            "anoslash1"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ぐっ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "サメブロッコリー:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "いいぞ、シャーク大公！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "攻めて攻めて攻めまくれ…、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "それこそが、喧嘩の真髄！！"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-emi1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen1.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ははーっ！大首領様！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "やはり、タイマンに小細工は無用ですなぁ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "気合いと根性！ぶん殴って蹴り飛ばせば、相手は必ず倒れる！！！"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(強い…！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "調子付かせると、怖いタイプだな…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ここらで、特製のキバで戦う気を削いでおくか！)"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "くらえ…、カンブリアンニードル！！！"
+                        ]
+                    },
+                    {
+                        "code": 261,
+                        "indent": 0,
+                        "parameters": [
+                            "anoslash2"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "……！？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ああっ…、シャーク大公のマスクが！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "あのキバで破ったのか…？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "たしか、アノマロカリスモスマンのキバはウレタン製…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "どんなパワーを出せば、シャーク大公のサメ皮マスクを破れるんだ…？それに規定が…"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "バニーちゃん:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ああっと、シャーク大公のコスチュームが破損してしまいました！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "意図的に、怪人ボディやコスチュームを破壊する行為は、固く禁じられてますが〜…"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "モスモスモス…、わざとじゃねえんだぜ〜？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "カンブリアンニードルの威力が、予想以上に強すぎてね…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "それに、この程度の技を、マスクにカスらせちまうような相手だとは思わなくてね〜？"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "何っ…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-emi1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ふん…、安い挑発だ…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "マスクを破った程度のことが、そんなに嬉しいのか？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "こんなくだらんハプニングで、勝ちを拾う気もないわ…、早く再開せよ！"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "そうこなくっちゃな！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ワザと破った訳じゃねえってことは、よく分かったろ？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "おら、相手さんもそー言ってることだし、再開、再開！"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(くくく…、プライドが高い奴のことだ、不戦勝なんぞ欲しがらねえに決まってる…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "平然としちゃいるが、さっきのアノマロカリス牙の攻撃は、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "確実に深層心理に恐怖を植え付けたはずだ！！)"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "バニーちゃん:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "それじゃ、再開しま〜す❤︎"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ファイトっ！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho2.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(くっそ…、奴の技はどーでもいいのだが、マスクを破られたのは、痛手だ…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "特注で、これ一枚しかないのに…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "それに、顔が出てしまっては、正体がバレかねん…。)"
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            3
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            10
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 2,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-tujo1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            10,
+                            "t-kaijin-anomaro",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ふぅ…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "はぁはぁ…、あんまりビビってないな…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "俺のアノマロカリス牙の恐怖は…、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "こんなものでは…。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ざわざわ…"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "なぁ、シャーク大公、めちゃくちゃ可愛くねえ！？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "マスクしてても、美少女だとは思ってたけど、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "想像してたより、何十倍も綺麗な顔してんだけど！"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "いや、ツラが良すぎるだろ…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "なんだあれ…、エッグい美少女じゃねーか！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "半端ねーぞ、マジで…。"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho2.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "……………………。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ちょっと待て…、俺、あの子、見たことあるぞ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ギザギザマートでバイトしてる子だよ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "そういや、あそこはサメブロッコリーがオーナーだったな…。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "えっ、サメ山ちゃんか！？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "あー、確かに、間違いねえ！！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アルバイトのサメ山メミミちゃんだ…、普段は学生で、泥得学園の生徒会長だぞ！"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "観客:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "そうなの！？"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "へえ、まだ学生なのか…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "泥得学園生徒会長、サメ山メミミ…。へー…。"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho2.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-guruguru1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(正体がバレた…！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "やばっ…、会場中に、本名と学校名が…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "これ、明日には、街中に伝わってしまうぞ…！)"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アノマロカリスモスマン:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(おっ、身バレしやがった！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "怪人が恐れる出来事ランキング不動の一位、素顔と本名バレ…！"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "こりゃ、相当な動揺を誘えるぜ〜！)"
+                        ]
+                    },
+                    {
+                        "code": 355,
+                        "indent": 0,
+                        "parameters": [
+                            "CBR-画像合成"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "<t-memimi-base.png>"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-hoho2.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-aseri1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-kao-ase1.png"
+                        ]
+                    },
+                    {
+                        "code": 655,
+                        "indent": 0,
+                        "parameters": [
+                            "t-memimi-same-kamen2.png"
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            3,
+                            "t-memimi-base",
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "メミミ:"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "(ぐむむ…、い、今は平常心で、戦いに集中せねば…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "どうしよう…、あ、後から…。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "いや、とにかくそれは後、後…！)"
+                        ]
+                    },
+                    {
+                        "code": 318,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            1,
+                            0,
+                            22
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            3
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            10
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "members": [
+            {
+                "enemyId": 18,
+                "x": 78,
+                "y": 133,
+                "hidden": false
+            }
+        ],
+        "name": "test",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    }
+]

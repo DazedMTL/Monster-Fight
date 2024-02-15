@@ -1,0 +1,95 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 1,
+        "characterName": "memimi",
+        "classId": 1,
+        "equips": [
+            1,
+            1,
+            2,
+            3,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "メミミ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 3,
+        "characterName": "otoko6",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "先輩",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 3,
+        "battlerName": "",
+        "characterIndex": 2,
+        "characterName": "otoko6",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "コニカ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 4,
+        "battlerName": "",
+        "characterIndex": 1,
+        "characterName": "otoko6",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ディレクター",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]
