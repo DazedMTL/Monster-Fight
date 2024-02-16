@@ -805,7 +805,7 @@
     if (dTextInfo) {
       var customFont = dTextInfo.font ? dTextInfo.font + "," : "";
       this.contents.fontFace = customFont + this.standardFontFace();
-      this.contents.fontSize = dTextInfo.size || this.standardFontSize();
+      this.contents.fontSize = dTextInfo.size - 6 || this.standardFontSize();
     } else {
       Window_Base.prototype.resetFontSettings.apply(this, arguments);
     }
