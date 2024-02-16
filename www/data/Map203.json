@@ -1886,7 +1886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドリルマーメイドに会いに行きますか？"
+                                "Will you go to meet Drillmaid?"
                             ]
                         },
                         {
@@ -1894,8 +1894,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会いに行く",
-                                    "まだ会わない"
+                                    "Go to meet",
+                                    "Not yet"
                                 ],
                                 -1,
                                 -1,

@@ -1895,28 +1895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通行人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、俺はただ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かわいい女学生でもいないかな～って思って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道を歩いてただけで…。"
+                                "Passerby: I-I was just walking down the street, wondering if\nthere might be any cute female students around..."
                             ]
                         },
                         {
@@ -1924,8 +1903,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "殴る",
-                                    "犯す"
+                                    "Punch",
+                                    "Violate"
                                 ],
                                 -1,
                                 -1,
@@ -1964,21 +1943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "通行人："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ギャーーーーーーー！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "な、なんなんだ、こいつ…。がくっ…。"
+                                "Passerby: Gya-------!!! W-what the hell is this thing...\ngah..."
                             ]
                         },
                         {
@@ -2243,28 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同級生："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、殴らないでください…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サメ山さんの下着姿が見れるのは嬉しいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで道端で全裸にされなきゃいけないんだ…。"
+                                "Classmate: Please, don't hit me... I'm happy to see\nSameyama-san in her underwear, but why do I have to be\nstripped naked on the side of the road..."
                             ]
                         },
                         {
@@ -2272,8 +2216,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "殴る",
-                                    "犯す"
+                                    "Punch",
+                                    "Rape"
                                 ],
                                 -1,
                                 -1,
@@ -2312,21 +2256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "同級生："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あああああああああああああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひどい…。"
+                                "Classmate: Aaaaaaaaaah!!! That's terrible..."
                             ]
                         },
                         {
@@ -2587,28 +2517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生徒会副会長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてこんなことをするんですか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、まさか毎日、生徒会室で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メミミ会長が座った後の椅子に頬ずりしてるのがバレたのか…？"
+                                "Vice President of the Student Council: Why are you doing\nthis...? Could it be that you've discovered I rub my cheek\non the chair in the student council room every day after\nPresident Memimi has sat there...?"
                             ]
                         },
                         {
@@ -2616,8 +2525,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "殴る",
-                                    "犯す"
+                                    "Hit",
+                                    "Rape"
                                 ],
                                 -1,
                                 -1,
@@ -2656,14 +2565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "生徒会副会長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐあああ…、許してください…！"
+                                "Vice President of the Student Council: Guuuaaah... Please\nforgive me...!"
                             ]
                         },
                         {
@@ -2915,28 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ろ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃーな…、また今度〜…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Memimi: Let's go home... or not... see you next time~"
                             ]
                         },
                         {
@@ -2953,28 +2834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通行人:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰って行った…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、何だったんだ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Passerby: They left... huh, what was that all about...?"
                             ]
                         },
                         {
@@ -2991,28 +2851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人って、怖い…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何されるかわからんから、今日のことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰にも言わないでおこう…。"
+                                "Male Student: Monsters are scary... you never know what\nthey'll do, so I won't tell anyone about today..."
                             ]
                         },
                         {
@@ -3135,21 +2974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャッ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうしたんだサメ山くん…。"
+                                "Chairman: Gah!? What's the matter, Shark Broccoli-kun..."
                             ]
                         },
                         {
@@ -3157,8 +2982,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "殴る",
-                                    "犯す"
+                                    "Punch",
+                                    "Violate"
                                 ],
                                 -1,
                                 -1,
@@ -3197,21 +3022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "理事長："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウギャアアアアアア！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゆ、許して…。"
+                                "Chairman: Ugyaaaaaaa!!! P-please forgive me..."
                             ]
                         },
                         {

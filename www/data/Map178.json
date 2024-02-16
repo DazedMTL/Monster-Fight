@@ -1958,7 +1958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "DVDが落ちてる！"
+                                "There's a DVD on the ground!"
                             ]
                         },
                         {
@@ -2092,21 +2092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブラキオコンドル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かがDVDを忘れて行ってるぞ…。"
+                                "Memimi: Brachiocondor! Someone left their DVD behind..."
                             ]
                         },
                         {
@@ -2139,28 +2125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっ…、あいつのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも、忘れモンしていきやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えーと、サメ映画かな、これは…。"
+                                "Brachiocondor: Tch... It's his, isn't it. Always leaving\nstuff behind. Hmm, is this a shark movie...?"
                             ]
                         },
                         {
@@ -2221,21 +2186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白そう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねーねー、みんなで見よ～？"
+                                "Bunny-chan: That looks interesting! Hey, hey, let's watch it\ntogether?"
                             ]
                         },
                         {
@@ -2369,28 +2320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふむ、大戦中に極秘開発された…、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、フランケンなサメというわけか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワクワクするではないか、見よう見よう！"
+                                "Memimi: Hmm, secretly developed during the war... I see, a\nFranken-shark, is it? This is exciting, let's watch it!"
                             ]
                         },
                         {
@@ -2414,21 +2344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その映画は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、まあ、いいか…。"
+                                "Brachiocondor: That movie is... well, never mind..."
                             ]
                         },
                         {
@@ -2492,7 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -2523,28 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほうほう、帝国の生物兵器が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、これがサメに影響を…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対強いやつだ！！"
+                                "Memimi: Aha, the empire's biological weapon... I see, so\nthis affected the shark... It must be incredibly strong!!"
                             ]
                         },
                         {
@@ -2570,21 +2465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぬいぐるみ…？"
+                                "Bunny-chan: Eh!? A stuffed animal...?"
                             ]
                         },
                         {
@@ -2615,7 +2496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -2644,14 +2525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "………。"
+                                "Bunny-chan: ..."
                             ]
                         },
                         {
@@ -2668,28 +2542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと、外の空気を吸ってくる…。"
+                                "Memimi: ...I'm going to get some fresh air outside..."
                             ]
                         },
                         {
@@ -2837,28 +2690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ、プロレスには、フランケンシュタイナーという技がある…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大首領様に教えてもらおう…。"
+                                "Memimi: ...That's right, in wrestling there is a move called\nthe Frankensteiner... I should ask the great boss to teach\nme..."
                             ]
                         },
                         {
@@ -2875,7 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サメフランケンシュタイナーを習得した！！"
+                                "Gained the Shark Frankensteiner!!"
                             ]
                         },
                         {
@@ -3055,7 +2887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "DVDが落ちてる！"
+                                "There's a DVD on the ground!"
                             ]
                         },
                         {
@@ -3189,21 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブラキオコンドル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かがDVDを忘れて行ってるぞ…。"
+                                "Memimi: Brachiocondor! Someone left their DVD behind..."
                             ]
                         },
                         {
@@ -3236,28 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっ…、あいつのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも、忘れモンしていきやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えーと、サメ映画かな、これは…。"
+                                "Brachiocondor: Tch... It's his, isn't it. Always leaving\nstuff behind. Hmm, is this a shark movie...?"
                             ]
                         },
                         {
@@ -3318,21 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白そう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねーねー、みんなで見よ～？"
+                                "Bunny-chan: That looks fun! Hey, hey, let's all watch it\ntogether?"
                             ]
                         },
                         {
@@ -3466,28 +3249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふむ、大戦中に極秘開発された…、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、フランケンなサメというわけか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワクワクするではないか、見よう見よう！"
+                                "Memimi: Hmm, secretly developed during the war... I see, a\nFranken-shark, is it? This is getting exciting, let's watch\nit!"
                             ]
                         },
                         {
@@ -3511,21 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その映画は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、まあ、いいか…。"
+                                "Brachiocondor: That movie is... well, never mind..."
                             ]
                         },
                         {
@@ -3589,7 +3337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -3620,28 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほうほう、帝国の生物兵器が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、これがサメに影響を…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対強いやつだ！！"
+                                "Memimi: Aha, the empire's biological weapon... I see, so\nthis affected the shark... It must be incredibly strong!!"
                             ]
                         },
                         {
@@ -3667,21 +3394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぬいぐるみ…？"
+                                "Bunny-chan: Eh!? A stuffed toy...?"
                             ]
                         },
                         {
@@ -3712,7 +3425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -3741,14 +3454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "………。"
+                                "Bunny-chan: ..."
                             ]
                         },
                         {
@@ -3765,28 +3471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと、外の空気を吸ってくる…。"
+                                "Memimi: ...I'm going to get some fresh air outside..."
                             ]
                         },
                         {
@@ -3934,28 +3619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ、プロレスには、フランケンシュタイナーという技がある…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大首領様に教えてもらおう…。"
+                                "Memimi: ...That's right, in pro wrestling there's a move\ncalled the Frankensteiner... I should ask the great boss to\nteach me..."
                             ]
                         },
                         {
@@ -3972,7 +3636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サメフランケンシュタイナーを習得した！！"
+                                "Gained the Shark Frankensteiner!!"
                             ]
                         },
                         {
@@ -4177,28 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グゲゲッ、アノマロカリスモスマンは明らかに相当レベルの強者だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく勝ったもんだぜ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サメブロッコリーも喜んで飲みまくってたよ。"
+                                "Brachiocondor: Gahaha, Anomalocaris was clearly a formidable\nopponent. You did well to win!! Shark Broccoli was also\nhappily drinking away."
                             ]
                         },
                         {
@@ -4266,28 +3909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大首領様に喜んでいただけたなら、私も頑張った甲斐があったというものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとも、私が戦うのは、大首領様のためだけではないがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "市内の真の平和のために、この身を捧げる覚悟があるからこそ、出せる力だ…。"
+                                "Memimi: If the great boss is pleased, then my efforts were\nworth it. But I don't fight just for the boss. It's because\nI'm prepared to dedicate myself for the true peace of the\ncity that I can unleash this power..."
                             ]
                         },
                         {
@@ -4304,28 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "市内統一…というより、泥得市の治安改善と景気回復は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺らにとっても悲願だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特にサメブロッコリーは、例の事件で負い目があるんだろうな…。"
+                                "Brachiocondor: More than unifying the city... improving the\npublic order and economy of Dorobachi City is also our\nearnest wish. Especially for Shark Broccoli, he probably\nfeels a sense of guilt about that incident..."
                             ]
                         },
                         {
@@ -4400,14 +4001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例の事件…？"
+                                "Memimi: That incident...?"
                             ]
                         },
                         {
@@ -4424,21 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっと…、これ以上は、俺の口からは言えねえ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いずれ、サメブロッコリー自身の口から語られるのを待つんだな…。"
+                                "Brachiocondor: Oops... I can't say any more from my mouth...\nEventually, you'll hear it from Shark Broccoli himself..."
                             ]
                         },
                         {
@@ -4455,14 +4035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔、サメブロッコリー大首領様と、泥得市の間に、何が…。"
+                                "Memimi: In the past, between Shark Broccoli the great boss\nand Dorobachi City, what happened..."
                             ]
                         },
                         {
@@ -4581,28 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケルベロスオクトパスか…、あいつはボクシングをベースにした強力な格闘技を使う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は、現役時代にあいつとぶつかる事はなかったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし戦っていたら、タダじゃー済まなかったかもな。"
+                                "Brachiocondor: Cerberus Octopus, huh... He uses a powerful\nmartial art based on boxing. I never clashed with him during\nmy active days, but if we had fought, it wouldn't have been\neasy."
                             ]
                         },
                         {
@@ -4670,28 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "市内最強格の怪人であることは疑いようもないが、攻略ポイントはある…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴は貴様やアノマロカリスモスマンに比べると、防御力も体格も劣る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体重がないのは、喧嘩において圧倒的デメリットになるのだ…。"
+                                "Memimi: There's no doubt he's one of the strongest monsters\nin the city, but there are ways to defeat him... Compared to\nyou or Anomalocaris, his defense and physique are inferior.\nThe lack of weight is a significant disadvantage in a\nfight..."
                             ]
                         },
                         {
@@ -4708,14 +4239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前が、市内全怪人のうちで、一番体重ないと思うんだが…。"
+                                "Brachiocondor: You're the one I think has the least weight\namong all the monsters in the city though..."
                             ]
                         },
                         {
@@ -4834,21 +4358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだその怪人スーツは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めちゃくちゃだな…、ケルベロスオクトパスには、モラルってもんがねーのか…？"
+                                "Brachiocondor: What's with that bizarre suit... It's a total\nmess... Doesn't Cerberus Octopus have any morals...?"
                             ]
                         },
                         {
@@ -4930,28 +4440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそぉお…っ、く、くやしい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不特定多数に、こんな姿を、晒さねばならぬとは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知り合いにも、いっぱい見られた…。あぅぅ…。"
+                                "Memimi: Damn it... So, so frustrating... To be exposed like\nthis to so many people... And so many people I know saw\nme... Ahh..."
                             ]
                         },
                         {
@@ -5012,28 +4501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メミミちゃん可哀想…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんまり見ないであげて〜…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Bunny-chan: Poor Memimi-chan... Please don't look too\nmuch..."
                             ]
                         },
                         {
@@ -5073,28 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グゲゲ…、俺は嫁一筋だから、心配すんな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三十路以下の女に欲情するほど、ヤワな性癖してねーぜ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Brachiocondor: Gahaha... No need to worry, I'm devoted to my\nwife!! I'm not so weak-willed as to lust after women under\nthirty!!"
                             ]
                         },
                         {
@@ -5176,14 +4623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そうか…。"
+                                "Memimi: Is, is that so..."
                             ]
                         },
                         {
@@ -5302,28 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食いもんも売ってるような店で、あーいう不潔なモンを出したり舐めたりするキャンペーンは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり感心はできねーな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあってからじゃ遅いぜ！"
+                                "Brachiocondor: A store that sells food shouldn't be doing\nthose dirty campaigns where you lick and taste such filthy\nthings. It's not commendable at all. It'll be too late once\nsomething happens!"
                             ]
                         },
                         {
@@ -5405,28 +4824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私的には、もうとっくに、何かあっているのだが！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汚いしっ、臭いし！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な液で、お腹いっぱいになるし…、うえぇえん…。"
+                                "Memimi: Personally, I think something has already happened!!\nIt's dirty, it stinks!! And I'm full of weird fluids... ugh,\nI feel sick..."
                             ]
                         },
                         {
@@ -5487,28 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泣いちゃった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは無茶だよねー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もギザギザマートでよく買い物してたけど、近寄りづらくなっちゃったな〜。"
+                                "Bunny-chan: She cried... That was just too much... I used to\nshop a lot at Jagged Mart, but now it's become hard to even\nget close."
                             ]
                         },
                         {
@@ -5627,28 +5004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サメブロッコリーも悔しいだろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当は、あいつ自身が、まだ戦いたい筈だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつまだ、20代だしな…。"
+                                "Brachiocondor: Shark Broccoli must be feeling frustrated. In\ntruth, he himself still wants to fight. He's still in his\n20s, after all..."
                             ]
                         },
                         {
@@ -5730,14 +5086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうなの！！？"
+                                "Memimi: Is that so?!!?"
                             ]
                         },
                         {
@@ -5805,28 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "20代だったんだね〜。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、なんでサメブロッコリーさん、引退しちゃったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が運営に入った時には、もういなかったんだけど…。"
+                                "Bunny-chan: He was in his 20s, huh~. By the way, why did\nShark Broccoli-san retire? He was already gone when I joined\nthe management team..."
                             ]
                         },
                         {
@@ -5866,28 +5194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴の怪人スーツは、もう経年劣化でボロボロなんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐らく、あと一試合も耐えられまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長年戦い続けたツケだな…。"
+                                "Brachiocondor: His monster suit is falling apart due to wear\nand tear... Probably, it wouldn't last another match. It's\nthe price he's paid for fighting all these years..."
                             ]
                         },
                         {
@@ -5969,28 +5276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと、大首領様の怪人スーツは、他の怪人のものとは素材がちょっと違って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗濯ができない仕様なのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "組みついた時に、ちょっと…、耐えがたい臭いがして、対戦相手から苦情が…。"
+                                "Memimi: Also, the monster suit of the great boss is made of\na slightly different material than the others, and it can't\nbe washed. When you grapple with him, there's a...\nunbearable smell, and there have been complaints from his\nopponents..."
                             ]
                         },
                         {
@@ -6051,14 +5337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは、引退やむなしかな…。"
+                                "Bunny-chan: In that case, retirement was inevitable..."
                             ]
                         },
                         {
@@ -6177,28 +5456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泥得市の裏組織は、非合法活動を行なって金を稼ぐことが多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用心棒とか、行政に内緒で、店をやったりとか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Brachiocondor: The underground organizations in Doritoku\nCity often make money through illegal activities. Like\nacting as bodyguards, or running shops in secret from the\nauthorities..."
                             ]
                         },
                         {
@@ -6215,28 +5473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、売春とかソープに沈めたりとか、AV撮ったりみたいなシノギは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "滅多にない…、というか、過去見たことがねえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女構成員は極めて数が少ないし、怪人って基本的にモテねーからな…。"
+                                "Brachiocondor: However, things like prostitution, drowning\nin soaplands, or shooting adult videos are rarely their\ngig... In fact, I've never seen it before! There are very\nfew female members, and monsters generally aren't popular\nwith the ladies..."
                             ]
                         },
                         {
@@ -6304,28 +5541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは何よりだ…、不幸な少女は、少なければ少ないほど、いいからな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな思いをするのは、私ぐらいで……、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううっ…、ぐすん…。"
+                                "Memimi: That's for the best... The fewer unfortunate girls\nthere are, the better... I wish I were the only one to go\nthrough this... *sob*... *sniffle*..."
                             ]
                         },
                         {
@@ -6342,21 +5558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、まあ、ドンマイ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジュース飲むか…？"
+                                "Brachiocondor: Well, don't worry about it... Want some\njuice...?"
                             ]
                         },
                         {
@@ -6475,28 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日こそは勝てるぜ、きっとな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サメブロッコリーや、組織の連中も心配してるぜ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日もここで、集まって愚痴ってたよ。"
+                                "Brachiocondor: Today's the day we'll win for sure!! Even\nShark Broccoli and the guys from the organization are\nworried... They were all gathered here yesterday, grumbling\nabout it."
                             ]
                         },
                         {
@@ -6578,28 +5759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとう、ブラキオコンドル…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私としても、これ以上、この状況を長引かせる訳にはいかん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜でキメるとしよう…。"
+                                "Memimi: Thank you, Brachiocondor... I can't let this\nsituation drag on any longer either. Let's settle it\ntonight..."
                             ]
                         },
                         {
@@ -6616,28 +5776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その意気だ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし次負けたら、お前が解放されるよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ツラがいい構成員を身代わりとして、女装セックス権を売り出すよう交渉するつもりらしい。"
+                                "Brachiocondor: That's the spirit!! If we lose again, they're\nplanning to negotiate selling the right to cross-dress sex\nwith a good-looking member as a substitute, so you can be\nreleased."
                             ]
                         },
                         {
@@ -6719,14 +5858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対勝たんとな…。"
+                                "Memimi: We must win at all costs..."
                             ]
                         },
                         {
@@ -6875,28 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メミミちゃん、お疲れっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アノマロカリスモスマンさんとの試合、盛り上がったね〜。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カッコ良かったよ〜！"
+                                "Bunny-chan: Memimi-chan, great job! The match with\nAnomalocaris Mosman-san was so exciting. You looked so cool!"
                             ]
                         },
                         {
@@ -6964,28 +6075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バニーちゃんも、レフリーご苦労だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは、今までの私の試合の中でも、1番の名勝負だった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさしく紙一重の勝負だったよ。"
+                                "Memimi: You did a great job as the referee too, Bunny-chan.\nThat was the best match I've ever had... It was truly a\nclose call."
                             ]
                         },
                         {
@@ -7039,28 +6129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下馬評も、最後まで荒れたからね〜。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はもちろん、メミミちゃんに賭けてたから、お小遣い増えちゃった♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は奢っちゃうよ〜！"
+                                "Bunny-chan: The odds were all over the place until the end.\nOf course, I bet on you, Memimi-chan, so I made a nice\nlittle profit♪ I'll treat you today!"
                             ]
                         },
                         {
@@ -7135,14 +6204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "賭けてたんだな…、したたかだなぁ…。"
+                                "Memimi: You were betting, huh... That's pretty shrewd..."
                             ]
                         },
                         {
@@ -7275,28 +6337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日の試合も頑張ってね、メミミちゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は中立だけど、気持ちはメミミちゃんに勝ってほしいな〜。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケルベロスオクトパスさんも、手数が多くて、派手な試合になるから好きだけどね。"
+                                "Bunny-chan: Do your best in today's match too, Memimi-chan♪\nI'm neutral, but I'm rooting for you to win. I also like\nCerberus Octopus-san's matches because they're flashy and he\nhas a lot of moves."
                             ]
                         },
                         {
@@ -7364,21 +6405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふん、今夜も名試合になるから、期待していてくれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バニーちゃんが見ていてくれるから、私も安心して戦えるぞ。"
+                                "Memimi: Hehe, it's going to be another great match tonight,\nso look forward to it! Knowing that you're watching, Bunny-\nchan, gives me peace of mind to fight."
                             ]
                         },
                         {
@@ -7511,21 +6538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひええ…、その格好で、アジトから歩いてきたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無茶しすぎだよ〜、拒否しなよ…。"
+                                "Bunny-chan: Eek... You walked here from the hideout dressed\nlike that? That's way too reckless—just refuse it..."
                             ]
                         },
                         {
@@ -7607,28 +6620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然、闇組織の上下関係とはいえ、度を越した命令は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セクハラやパワハラとして忌み嫌われる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でなくとも、例えば私が、泣いて許しを乞えば、待遇はずっと改善されるだろう。"
+                                "Memimi: Of course, even within the hierarchy of a dark\norganization, orders that go too far are despised as sexual\nharassment or power harassment... Even if not, for example,\nif I were to cry and beg for forgiveness, surely my\ntreatment would improve greatly."
                             ]
                         },
                         {
@@ -7710,28 +6702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人シャーク大公が…、サメブロッコリー大首領さまの部下が、そんな無様を晒せようか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裸を見られるぐらい…、うっ…、ううっ…！！"
+                                "Memimi: But still...! Could the monstrous Shark Duke...\nCould a subordinate of the great Shark Broccoli-sama ever\nexpose such disgrace!? Being seen naked is nothing compared\nto... ugh... ughhh...!!"
                             ]
                         },
                         {
@@ -7785,14 +6756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑固すぎる…。"
+                                "Bunny-chan: You're too stubborn..."
                             ]
                         },
                         {
@@ -7925,28 +6889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え〜っ、お、男の人の、アレを舐めてるの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも、コンビニに来た人全員って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ、どんな感じなの？味とか…。"
+                                "Bunny-chan: Ehh, licking a guy's... that? And everyone who\ncomes to the convenience store... Huh, what's it like? The\ntaste and all..."
                             ]
                         },
                         {
@@ -8028,28 +6971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バニーちゃんが興味深々…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼氏のを舐めたりとか、してるのではないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私より、男性経験あるだろう…。"
+                                "Memimi: Bunny-chan seems really curious... Have you been\nlicking your boyfriend's or something? You must have more\nexperience with men than I do..."
                             ]
                         },
                         {
@@ -8103,28 +7025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うち女子校だし、モンスター・ファイト運営スタッフはおじさんばっかりだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もそういう人はいないよ〜。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼ピッピ欲しいよね〜。"
+                                "Bunny-chan: I go to an all-girls school, and the staff at\nMonster Fight are all old men, so I don't have anyone like\nthat. I really want a boyfriend though..."
                             ]
                         },
                         {
@@ -8141,21 +7042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ…、欲しくないと言えば、嘘になるが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私とつり合うような男がいればだが…。"
+                                "Memimi: Well... it would be a lie to say I don't want one...\nbut it would have to be a man who's my equal..."
                             ]
                         },
                         {
@@ -8288,28 +7175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テレビ番組ジャックは流石に疲れたよ〜。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々根回ししなきゃだし、カメラの使い方とかタイミングとか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーいうのは、やめてほしいよね〜。"
+                                "Bunny-chan: Hijacking the TV show really wore me out...\nThere's so much groundwork to do, and then there's using the\ncamera and getting the timing right... I wish we could stop\ndoing that kind of thing..."
                             ]
                         },
                         {
@@ -8377,28 +7243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったくもってやめてほしい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一晩マジ泣きしたわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バニーちゃんも大変だったな…。"
+                                "Memimi: I totally wish we could stop... I seriously cried\nall night... It must have been tough for you too, Bunny-\nchan..."
                             ]
                         },
                         {
@@ -8415,21 +7260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メミミちゃんは身体張りすぎだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうちょっと諦めるって言葉を知ろうね…。"
+                                "Bunny-chan: Memimi-chan, you're too hard on yourself, you\nshould learn to give up a little more..."
                             ]
                         },
                         {
@@ -8562,21 +7393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メミミちゃんっ、見えてる見えてる…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠して〜、同性とはいえ恥ずかしいよ…。"
+                                "Bunny-chan: Memimi-chan, it's showing, it's showing...!\nCover it up— even if we're both girls, it's embarrassing..."
                             ]
                         },
                         {
@@ -8658,28 +7475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今更…、隠しようもない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手を使っても、全部は隠れないし、なんか余計に卑猥な感じになるのだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや私は、下半身丸出しで生活する以外、道はない…。ぐすっ…。"
+                                "Memimi: It's too late... there's no way to hide it... Even\nif I use my hands, I can't cover everything, and it just\nends up looking more lewd... I have no choice but to live\nwith my lower half exposed... *sniffle*..."
                             ]
                         },
                         {
@@ -8733,21 +7529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケルベロスオクトパスさんに謝って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともな怪人スーツにしてもらった方がいいと思う…。"
+                                "Bunny-chan: I think you should apologize to Cerberus\nOctopus-sama and ask him to make you a proper monster\nsuit..."
                             ]
                         },
                         {
@@ -8880,28 +7662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メミミちゃん、今日は絶対勝ってね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんとは立場的に、どっちかにあんまり肩入れするのは、よくないけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は痛々しくて、見てられないよ…。"
+                                "Bunny-chan: Memimi-chan, you absolutely have to win today! I\nknow I shouldn't really take sides because of my position...\nbut it's just too painful to watch any more of this..."
                             ]
                         },
                         {
@@ -8983,28 +7744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心配してくれてありがとう、バニーちゃん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私ももう、マジでつらい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何としてでも勝つ…。"
+                                "Memimi: Thank you for worrying about me, Bunny-chan... I'm\nseriously at my limit too... I'll win no matter what..."
                             ]
                         },
                         {
@@ -9058,28 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次負けたらもう、引退した方がいいと思う…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は、仮に怪人やめたとしても、まともに生活できなくなっちゃうから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り返しがつくうちに逃げるのも、勇気のうちだよ〜。"
+                                "Bunny-chan: If you lose again, I think it might be better to\nretire... If it goes on like this, even if you quit being a\nmonster, you won't be able to live a normal life... Escaping\nwhile you can is also a form of courage, you know~."
                             ]
                         },
                         {
@@ -9096,21 +7815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……いや、もう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダメかな…、いやまだ、ギリギリ…？"
+                                "Bunny-chan: ...No, maybe it's already... hopeless... or\nmaybe, just barely...?"
                             ]
                         },
                         {
@@ -9192,21 +7897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうの、やめてっ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分が一番よく分かってるから…！"
+                                "Memimi: Stop saying that...! I know my situation better than\nanyone else...!"
                             ]
                         },
                         {
@@ -9327,28 +8018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アノマロカリスモスマン:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "く…、下克上失敗か…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は諦めねーぞ、いつかお前を倒して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泥得市を手に入れるんだ…。"
+                                "Anomalocaris: Grr... A failed coup d'état... I won't give\nup, one day I'll defeat you and take over Doriet City..."
                             ]
                         },
                         {
@@ -9423,28 +8093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるだけエゲツない条件を考えておくから、いつでも挑戦するがいい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前も頑張ったな、うん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Memimi: I'll think of the most ruthless conditions possible,\nso feel free to challenge me anytime... You did well,\nindeed..."
                             ]
                         },
                         {
@@ -9484,28 +8133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駅前脱糞はヤベーわ、むしろ未然で気絶して良かったぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくらツラが良くて強い怪人だと言っても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駅前で全裸脱糞するような奴には、誰もついて来ねーわ！"
+                                "Brachiocondor: Public defecation is a no-go, man. It's\nactually better that you passed out before it happened! No\nmatter how cool and strong a monster you are, nobody's gonna\nfollow someone who strips naked and poops in front of the\nstation!"
                             ]
                         },
                         {
@@ -9566,28 +8194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全裸脱糞はともかく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アノマロカリスモスマンさんの正体、カッコ良かったよね〜♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お顔見せて〜？"
+                                "Bunny-chan: Aside from the naked pooping, Anomalocaris-san's\ntrue face was so cool~♪ Show us your face~?"
                             ]
                         },
                         {
@@ -9618,28 +8225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Tug!"
                             ]
                         },
                         {
@@ -9679,28 +8265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アノマロカリスモスマン:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、こら…、やめねーか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ったくよー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かっこいいって、こいつもしかして、俺のこと好きなのか…？どきどき…"
+                                "Anomalocaris: Hey... stop that! Seriously! Cool, huh? Could\nit be that she actually likes me...? Thump thump..."
                             ]
                         },
                         {
@@ -9784,21 +8349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イケメン顔なのはいいが、身体が怪人では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とんでもない珍獣にしか見えん…。"
+                                "Memimi: Having a handsome face is fine, but with a monster's\nbody, you just look like an incredible freak..."
                             ]
                         },
                         {

@@ -1870,8 +1870,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アジトへ行く",
-                                    "コンビニでバイト"
+                                    "Go to the hideout",
+                                    "Work part-time at the convenience store"
                                 ],
                                 -1,
                                 -1,
@@ -2040,7 +2040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宣伝を終了して、コンビニに戻りますか？"
+                                "Shall we finish promoting and return to the convenience\nstore?"
                             ]
                         },
                         {
@@ -2048,8 +2048,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "まだ戻らない"
+                                    "Return",
+                                    "Not yet"
                                 ],
                                 -1,
                                 -1,
@@ -2168,8 +2168,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アジトへ行く",
-                                    "コンビニでバイト"
+                                    "Go to the hideout",
+                                    "Work part-time at the convenience store"
                                 ],
                                 -1,
                                 -1,

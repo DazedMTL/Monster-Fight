@@ -1877,8 +1877,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ここが目的地！",
-                                    "違う気がする…"
+                                    "This is our destination!",
+                                    "I have a feeling it's not..."
                                 ],
                                 -1,
                                 -1,
@@ -1913,7 +1913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -1968,14 +1968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん…。"
+                                "Memimi: Mmm..."
                             ]
                         },
                         {
@@ -2105,28 +2098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん…？あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんで私、部屋で寝とるんだ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "酒を飲んで…、えーと…？"
+                                "Memimi: Huh...? Why am I sleeping in my room...? I was\ndrinking and... uh...?"
                             ]
                         },
                         {
@@ -2201,28 +2173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "記憶が飛んでる…、飲み過ぎたな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ、大したことはしていまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はー、お茶でも飲んで、仕事に戻るか…。"
+                                "Memimi: I can't remember a thing... I must have drunk too\nmuch... Well, it's not like I did anything major. Ha, maybe\nI'll have some tea and get back to work..."
                             ]
                         },
                         {
@@ -2844,28 +2795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2947,28 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぁ…、ねてた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか、うるさかったよーな…、わかんにゃい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ〜…、わらひの部屋は…、ろこに…。"
+                                "Memimi: Mmm... I was sleeping... Something was loud... I\ndon't know... Ahh... My room is... somewhere..."
                             ]
                         },
                         {
@@ -3058,28 +2967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3161,28 +3049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う〜、ひえた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここ、わたしの部屋りゃない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこ…、へや……。"
+                                "Memimi: Brrr, it's cold... This isn't my room... Where... is\nthis place..."
                             ]
                         },
                         {

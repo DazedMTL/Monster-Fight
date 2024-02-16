@@ -2025,28 +2025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャワーを浴びよう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだか、すっっごく念入りに身体を洗わないと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気色悪くて…、うぅ…。"
+                                "Memimi: I should take a shower... Somehow, if I don't wash\nmy body really thoroughly, it feels so gross... ugh..."
                             ]
                         },
                         {
@@ -2075,7 +2054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {

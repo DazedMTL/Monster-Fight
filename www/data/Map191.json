@@ -1877,9 +1877,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "SNSでエゴサーチ",
-                                    "怪人名鑑",
-                                    "何もしない"
+                                    "Search for yourself on social media",
+                                    "Monster Encyclopedia",
+                                    "Do nothing"
                                 ],
                                 -1,
                                 -1,
@@ -1987,28 +1987,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "我が組織も、構成員が増えたおかげで、ギザギザマートの人員も増やすことができた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここで油断をせず、しっかりとお客様の意見を受け止め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "更に経営を磐石にするのだ…。"
+                                "Memimi: Thanks to the increase in our organization's\nmembers, we've been able to add more staff to Zigzag Mart.\nWe can't let our guard down here; we must take our\ncustomers' opinions seriously and further solidify our\nmanagement..."
                             ]
                         },
                         {
@@ -2099,21 +2078,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "…早速レスが…、来たのはいいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こ、コメントに困るな…。"
+                                "Memimi: ...A response already... It's good that it came, but\nthis, this comment is troubling..."
                             ]
                         },
                         {
@@ -2213,28 +2178,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "アノマロくんキーホルダー、女性層を中心に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "地味～に市内で流行りつつあるんだよな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "色々思い出すから、あんまり見たくないんだが…。"
+                                "Memimi: The Anomalocaris keychain is quietly becoming a\ntrend in the city, especially among women... It brings back\nmemories, so I don't really want to see it..."
                             ]
                         },
                         {
@@ -2328,21 +2272,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "う、うーん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あんまり参考には…、ならないかな…。"
+                                "Memimi: Uh, uh-huh... It's not really... useful as a\nreference, is it..."
                             ]
                         },
                         {
@@ -2435,21 +2365,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "…どうせ、こういうのが来るとは思ってたが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "く、くそっ…、写真を…、うぅぅ…。"
+                                "Memimi: ...I knew something like this would come... Damn\nit... the photo... ugh..."
                             ]
                         },
                         {
@@ -2562,28 +2478,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "シャチ市長との試合は目前…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "敵を知るために、少し奴のことを調べておくか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Memimi: The match with Mayor Orca is just around the\ncorner... To know my enemy, I should do a little research on\nhim..."
                             ]
                         },
                         {
@@ -2600,7 +2495,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カタカタ…"
+                                "Clickety-clack..."
                             ]
                         },
                         {
@@ -2691,21 +2586,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あっ、出てきた…、あっ、叩かれてる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あいつ、マジ嫌われてるんだな…。"
+                                "Memimi: Ah, there it is... Oh, he's getting bashed... That\nguy is seriously hated, huh..."
                             ]
                         },
                         {
@@ -2807,28 +2688,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "…まあ、私もどっこいかな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あーもー、やる気なくすわ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "うぅ…、画像上げんなって…、無修正で、顔出しで…。"
+                                "Memimi: ...Well, I'm probably in the same boat... Ahh, this\nis so demotivating... Ugh... don't post pictures like\nthat... unedited, with my face showing..."
                             ]
                         },
                         {
@@ -3158,28 +3018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大首領様が、DVDをプレゼントしてくださったのだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "技の参考になるようにと、サメのかっこいい映画を…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんと、台風に乗ったサメが飛びまくり、シリーズ化までされているという、名作中の名作…。"
+                                "Memimi: The great boss has gifted me a DVD... It's a cool\nshark movie for reference for my techniques... It's a\nmasterpiece among masterpieces, featuring sharks flying in a\ntyphoon, and it's even been made into a series..."
                             ]
                         },
                         {
@@ -3247,21 +3086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを見れば、シャチ市長ごとき、ものの数ではない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圧倒的新技を編み出して、大首領様にお喜び頂くのだ！！"
+                                "Memimi: With this, the likes of Mayor Orca will be nothing\nto worry about!! I'll develop an overwhelmingly new\ntechnique and delight the great boss!!"
                             ]
                         },
                         {

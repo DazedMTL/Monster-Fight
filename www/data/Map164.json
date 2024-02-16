@@ -1976,28 +1976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メミミちゃん、これ買ったんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいんだよね…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねっ？ね？はぁはぁ…。"
+                                "Customer: Memimi-chan, I bought this... it's okay, right...?\nRight? Right? *pant* *pant*..."
                             ]
                         },
                         {
@@ -2065,28 +2044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………………承りました…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうぞ、お好きな場所をご指定ください…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駅そばのホテルでしたら、組織と提携していて、2割引きで利用可能です…。"
+                                "Memimi: ...Understood... Please specify any location you\nprefer... If it's the hotel near the station, we have a\npartnership with them, and you can use it at a 20%\ndiscount..."
                             ]
                         },
                         {
@@ -2122,7 +2080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {

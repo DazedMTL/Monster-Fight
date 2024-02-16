@@ -1958,7 +1958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市長と戦いますか？"
+                                "Will you battle the mayor?"
                             ]
                         },
                         {
@@ -1966,8 +1966,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "まだ戦わない"
+                                    "Fight",
+                                    "Not yet"
                                 ],
                                 -1,
                                 -1,
@@ -2426,7 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市長と戦いますか？"
+                                "Will you fight the mayor?"
                             ]
                         },
                         {
@@ -2434,8 +2434,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "まだ戦わない"
+                                    "Fight",
+                                    "Not yet"
                                 ],
                                 -1,
                                 -1,
@@ -2596,28 +2596,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シャチブロッコリー市長:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさか、あれだけやられて、戻ってくるとは…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあいい、何度でも叩き潰すだけだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仲間の怪人スーツも失って、さっきと同じように戦えるのかぁ！？"
+                                "Orca Asparagus-Mayor: To think you'd come back after being\nbeaten so badly... Well, it doesn't matter, I'll just crush\nyou again!! Without your monster suit comrades, can you\nreally fight the same as before!?"
                             ]
                         },
                         {
@@ -2706,28 +2685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴様には分かるまい…、皆の力は今、私の心に宿っている！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "怪人の強さとは、怪人スーツで決まるものではないのだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Memimi: You wouldn't understand... The power of everyone now\nresides within my heart!! The strength of a monster isn't\ndetermined by a monster suit!!"
                             ]
                         },
                         {
@@ -2744,28 +2702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だいたいあんなもん、ただのウレタン製の着ぐるみではないか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "寄せ集めてゴテゴテ貼り付けた程度で、強くなるわけあるか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気持ちの問題だ、気持ちの！！！"
+                                "Memimi: After all, isn't that just a urethane costume?! How\ncould you become stronger just by slapping together such a\nhodgepodge?! It's all about spirit, the spirit!!!"
                             ]
                         },
                         {
@@ -2782,14 +2719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シャチブロッコリー市長:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それは言っちゃダメなやつだろうが、テメー！！！"
+                                "Orca Asparagus-Mayor: You shouldn't say that, damn you!!!"
                             ]
                         },
                         {
@@ -3107,7 +3037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市長と戦いますか？"
+                                "Will you fight the mayor?"
                             ]
                         },
                         {
@@ -3115,8 +3045,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "まだ戦わない"
+                                    "Fight",
+                                    "Not yet"
                                 ],
                                 -1,
                                 -1,
@@ -3277,28 +3207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シャチブロッコリー市長:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いい加減諦めろ…、俺には勝てねーし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "負けるたびにめちゃくちゃされるだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全部諦めて、サメ野郎と一緒に、俺の下につけ…。"
+                                "Orca Asparagus-Mayor: Just give up already... You can't beat\nme, and every time you lose, you just get messed up even\nmore. Give up on everything and join me, along with that\nshark bastard..."
                             ]
                         },
                         {
@@ -3387,28 +3296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どんな目にあわされようと、私がその条件を呑むことはない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たとえ街中の数百人の男に、尻穴をめちゃくちゃに凌辱されようと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その映像を本名と学校名入り無修正でネットに流されようとだ！！"
+                                "Memimi: No matter what happens to me, I will never accept\nthose terms!! Even if I were to be violated by hundreds of\nmen in the middle of the street, my butt hole ravaged, and\neven if that footage with my real name and school name\nuncensored were to be spread on the net!!"
                             ]
                         },
                         {
@@ -3425,14 +3313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シャチブロッコリー市長:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そ、そうか…。"
+                                "Orca Asparagus-Mayor: I-Is that so..."
                             ]
                         },
                         {
@@ -3759,7 +3640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "市長と戦いますか？"
+                                "Will you fight the mayor?"
                             ]
                         },
                         {
@@ -3767,8 +3648,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "まだ戦わない"
+                                    "Fight",
+                                    "Not yet"
                                 ],
                                 -1,
                                 -1,
@@ -4040,7 +3921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "市長に敗北し、メミミは強烈な凌辱を受けた…。"
+                                "Defeated by the mayor, Memimi suffered intense\nhumiliation..."
                             ]
                         },
                         {

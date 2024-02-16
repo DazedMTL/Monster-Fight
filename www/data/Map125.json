@@ -4570,8 +4570,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -4827,8 +4827,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -4995,8 +4995,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -5163,8 +5163,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -5331,8 +5331,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -5499,8 +5499,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -5667,8 +5667,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -5835,8 +5835,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -6003,8 +6003,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -6171,8 +6171,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -6339,8 +6339,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -6507,8 +6507,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -6675,8 +6675,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -6748,11 +6748,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "理事長",
-                                    "同級生",
-                                    "生徒会副会長",
-                                    "通行人",
-                                    "チンピラ"
+                                    "Principal",
+                                    "Classmate",
+                                    "Student Council Vice President",
+                                    "Passerby",
+                                    "Punk"
                                 ],
                                 -1,
                                 -1,
@@ -6978,8 +6978,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -7146,8 +7146,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -7314,8 +7314,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -7482,8 +7482,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -7650,8 +7650,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -7818,8 +7818,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -7986,8 +7986,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -8154,8 +8154,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -8322,8 +8322,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -8490,8 +8490,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -8658,8 +8658,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -8826,8 +8826,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -8994,8 +8994,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -9162,8 +9162,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -9330,8 +9330,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -9498,8 +9498,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -9666,8 +9666,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -9834,8 +9834,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -10002,8 +10002,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -10170,8 +10170,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -10338,8 +10338,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -10506,8 +10506,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -10674,8 +10674,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -10842,8 +10842,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -11010,8 +11010,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -11178,8 +11178,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -11346,8 +11346,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -11514,8 +11514,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -11682,8 +11682,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -11850,8 +11850,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -12018,8 +12018,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -12186,8 +12186,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -12354,8 +12354,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -12522,8 +12522,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -12690,8 +12690,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -12858,8 +12858,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -13026,8 +13026,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -13194,8 +13194,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -13362,8 +13362,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -13423,21 +13423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やっほい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バーチャルあぶらそば日和広報担当点弧ミツメちゃんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クリアありがとうございまーす！！"
+                                "Yay! I'm Mitsume-chan, the PR manager for Virtual Abura Soba\nBiyori! Thank you for clearing the game!!"
                             ]
                         },
                         {
@@ -13454,14 +13440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここでは回想イベントを全開放することができるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一度開放しちゃうと元に戻せないから気を付けてね！！"
+                                "You can unlock all the reminiscence events here! Be careful,\nonce you unlock them, you can't revert it!!"
                             ]
                         },
                         {
@@ -13469,8 +13448,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "全開放する",
-                                    "全開放しない"
+                                    "Unlock All",
+                                    "Do Not Unlock All"
                                 ],
                                 -1,
                                 -1,
@@ -13557,14 +13536,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おっけー！全開放しといたよ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "じゃあね！"
+                                "Okay! I've unlocked everything for you!!! See ya!"
                             ]
                         },
                         {
@@ -13711,8 +13683,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -13772,7 +13744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これからもたくさんのゲームを作っていくからあぶらそば日和をよろしくね！！"
+                                "We'll be making lots of games from now on, so please look\nforward to Abura Soba Biyori!!"
                             ]
                         },
                         {
@@ -13870,8 +13842,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,
@@ -13931,28 +13903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミツメ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっほーやっほー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バーチャルあぶらそば日和広報担当天孤ミツメちゃんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回想枠が一個余ったからスペシャル映像を流しまーす！"
+                                "Mitsume: Yay-yay! I'm Mitsume-chan, the PR manager for\nVirtual Abura Soba Biyori! We have an extra slot for a\nflashback, so we're going to stream a special video!"
                             ]
                         },
                         {
@@ -13969,21 +13920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミツメ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私もどんなのか見たことないんだよねー楽しみ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すたーとっ"
+                                "Mitsume: I haven't even seen what it's like myself - I'm\nexcited! Start!"
                             ]
                         },
                         {
@@ -14058,21 +13995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミツメ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私のお風呂の隠し撮りじゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何映してんの…、ギャーーー！！！"
+                                "Mitsume: That's a hidden camera footage of my bath?! What\nare you showing... Gyaah---!!!"
                             ]
                         },
                         {
@@ -14080,8 +14003,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "動画をリピート再生",
-                                    "終わる"
+                                    "Play the video on repeat",
+                                    "End"
                                 ],
                                 -1,
                                 -1,
@@ -14141,28 +14064,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミツメ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何考えてんの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私、本編出てないのに～…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見るなぁ…。"
+                                "Mitsume: What are you thinking... I'm not even in the main\nstory... Don't look..."
                             ]
                         },
                         {
@@ -14290,8 +14192,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再生する",
-                                    "再生しない"
+                                    "Play",
+                                    "Do Not Play"
                                 ],
                                 -1,
                                 -1,

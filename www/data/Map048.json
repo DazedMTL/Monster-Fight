@@ -2251,28 +2251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アノマロカリスモスマン:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モスッ、モスッ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に、シャーク大公も、再再戦までは希望しないだろう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の完全勝利だ！そう思うよなぁ？サメブロッコリー！"
+                                "Anomalocaris: Mmph, mmph... I doubt even the Shark Duke\nwould want a rematch after this... It's my complete victory!\nDon't you think so, Shark Broccoli?"
                             ]
                         },
                         {
@@ -2305,28 +2284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サメブロッコリー:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は、はあ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Shark Broccoli: Ye-yes..."
                             ]
                         },
                         {
@@ -2359,28 +2317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アノマロカリスモスマン:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前のお前らのシノギも、俺がコストカットを進めてやろう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいしい粉の一袋あたりの容量を、5%減らせ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中身も、小麦粉あたりを混ぜて、カサ増しを…"
+                                "Anomalocaris: I'll even cut costs on the hustle you guys had\nbefore... Reduce the amount per bag of the delicious powder\nby 5%! Also, mix in some wheat flour to bulk it up..."
                             ]
                         },
                         {
@@ -2471,28 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふざけるな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サメブロッコリー大首領様が開発されたおいしい粉は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "味や健康にも配慮された完全食なのだぞ！！"
+                                "Memimi: Don't joke around!! The delicious powder developed\nby Shark Broccoli's boss is a complete food, considering\nboth taste and health!!"
                             ]
                         },
                         {
@@ -2509,21 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余計な混ぜものをしたり、量を減らすなど、大首領様への冒涜に他ならん…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に許されることではない！！"
+                                "Memimi: Adding unnecessary stuff or reducing the quantity is\nnothing short of blasphemy against the boss...! It's\nabsolutely unforgivable!!"
                             ]
                         },
                         {
@@ -2531,8 +2433,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "再戦を申し込む",
-                                    "まだ申し込まない"
+                                    "Request a rematch",
+                                    "Not yet ready to request"
                                 ],
                                 -1,
                                 -1,
@@ -2562,28 +2464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "再戦だっ、アノマロカリスモスマン！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次は負けぬ…、組織もおいしい粉も、私が守る！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Memimi: It's a rematch, Anomalocaris!! I won't lose this\ntime... I'll protect both the organization and the delicious\npowder!!"
                             ]
                         },
                         {
@@ -2616,28 +2497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サメブロッコリー:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "シャーク大公、もういい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "や、やめておけ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Shark Broccoli: Shark Duke, that's enough... Stop, just\nstop..."
                             ]
                         },
                         {
@@ -2670,28 +2530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アノマロカリスモスマン:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モスモスモス…、まさか、もう一度戦う気力があるとはなぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手痛い思いをして再戦しても、また負けるだけだぜ〜？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "恥の上塗りだ！"
+                                "Anomalocaris: Mmph mmph mmph... You still have the energy to\nfight again? Even if you come back for more, you'll just\nlose again~ It's just adding insult to injury!"
                             ]
                         },
                         {
@@ -2773,28 +2612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐぎ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Memimi: Gugh...!"
                             ]
                         },
                         {
@@ -2811,28 +2629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミは既に、アノマロカリスモスマンと戦うために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全裸でオナニーしながら市内を一周するという、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪夢のような課題をこなしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Memimi has already completed a nightmarish task to fight\nAnomalocaris, walking around the city completely naked while\nmasturbating."
                             ]
                         },
                         {
@@ -2849,28 +2646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "取り巻き:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マジでイかれてんじゃねーか、こいつ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "街中の人間の前で、全裸でオナらされた癖によぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勝てねーって分かってんのに、自分から、またあんな目に遭いてえってか？"
+                                "Henchman: Is she freaking insane? She got made to masturbate\nnaked in front of everyone in town, and she still wants to\ngo through that again even though she knows she can't win?"
                             ]
                         },
                         {
@@ -2887,28 +2663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "取り巻き:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "毛も生えてねーようなマ◯コ、自分で弄ってるとこ、みんなで写真撮ってやったよなぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次はもっとエグい課題が出るぜ〜、耐えられるのかな〜？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Henchman: We all took photos of her playing with her\nhairless pussy! What's next, an even more extreme task? Can\nshe handle it?"
                             ]
                         },
                         {
@@ -2990,28 +2745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "く…、うぐ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Memimi: Kuh... Ugh...!"
                             ]
                         },
                         {
@@ -3028,28 +2762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "モンスター・ファイトに敗北した者が、同じ相手と再戦する場合、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "相手の出す条件を、何でも一つこなさなければならない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この規定一つに、メミミがどれほど苦しめられたことか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "In monster fights, those who are defeated must complete any\none condition set by their opponent if they want a\nrematch... Memimi has been tormented by this rule more than\nanyone could imagine."
                             ]
                         },
                         {
@@ -3066,28 +2779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何しろ、自分の生活圏内で裸を晒し、オナニーをしながら、長距離を歩かされたのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "同級生にも、部下にも、絶対見せたくない姿を見られ、映像だって撮られている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今も、街や学園内でヒソヒソと噂され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自身も毎日思い出しては悶える程に恥ずかしかった。"
+                                "After all, she was forced to expose herself naked and\nmasturbate while walking a long distance within her own\nliving area. She was seen by classmates and subordinates in\na state she never wanted to show anyone, and it was even\nrecorded. Even now, it's whispered about in the streets and\nthe academy, and she writhes in embarrassment every day\nremembering it."
                             ]
                         },
                         {
@@ -3104,28 +2796,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "次は、更に酷い条件が出るかもしれない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでも、メミミは、内心恐怖に怯えながらも、こう言うしかないのだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "The next condition might be even worse... Yet despite her\ninner terror, Memimi has no choice but to say..."
                             ]
                         },
                         {
@@ -3230,28 +2901,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんなもん、全っ然、恥ずかしくなかったと言っておろうが！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴様らの出す条件程度、毎回笑ってこなせるわ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つまり、何度だって再戦できる…、戦い得という訳だな！！"
+                                "Memimi: As if I was embarrassed at all! I can laugh off any\ncondition you guys come up with every single time!! That\nmeans I can challenge you again and again... I'm always\nready for battle!!"
                             ]
                         },
                         {
@@ -3284,28 +2934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アノマロカリスモスマン:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "図太い奴だぜ、まったく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次こそは、震え上がって拒否するような、エッグい条件を出してやらねーとな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Anomalocaris: You're thick-skinned, that's for sure... Next\ntime, I'll give you a condition so vile you'll shake and\nrefuse!"
                             ]
                         },
                         {
@@ -3373,28 +3002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(やめてくれ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "前回ので既に、私の耐えられるラインを遥かに超えていたのだが！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんとか…、あっ！)"
+                                "Memimi: (Please stop... The last one already far exceeded\nwhat I could handle! Somehow... Ah!)"
                             ]
                         },
                         {
@@ -3476,28 +3084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふ…、ひ、ひとつ、アドバイスをしてやろう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "恥ずかしいのとか、いやらしいやつでは、私の心は折れん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "別のにした方が…"
+                                "Memimi: Huh... I'll give you one piece of advice... If it's\nsomething embarrassing or lewd, it won't break my spirit...\nYou should try something else..."
                             ]
                         },
                         {
@@ -3514,28 +3101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アノマロカリスモスマン:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いや、次もオナニーで行く！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こうなったら、何としてでも恥ずかしがらせて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "完全勝利してやるぜ〜！！"
+                                "Anomalocaris: No, we're sticking with masturbation!! Now\nthat it's come to this, I'll make sure to embarrass you\ncompletely for a total victory!!"
                             ]
                         },
                         {
@@ -3603,28 +3169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうですか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Memimi: Is that so..."
                             ]
                         },
                         {
@@ -3641,28 +3186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "耳を塞ぎたくなるような会議が続き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "恐るべき条件がメミミに言い渡されるのだった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "The cringe-worthy meeting continued, and a dreadful\ncondition was imposed on Memimi..."
                             ]
                         },
                         {
@@ -3684,7 +3208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -3938,21 +3462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アノマロカリスモスマン:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "許さなかったらどうするんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺に二度も負けた下っ端がよぉ！！"
+                                "Anomalocaris: What are you going to do if you don't forgive\nme? You're just a lowly underling who lost to me twice!!"
                             ]
                         },
                         {
@@ -4034,14 +3544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐぬぬ…。"
+                                "Memimi: Grrr..."
                             ]
                         },
                         {
@@ -4058,21 +3561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（さ、再戦を申し込んで、阻止してやりたいが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今は、焦って動くべきでは…。）"
+                                "Memimi: (I want to challenge him to a rematch and stop\nthis... But now is not the time to act rashly...)"
                             ]
                         },
                         {
@@ -4089,7 +3578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミは一旦、引き下がることにした…。"
+                                "Memimi decided to back down for the time being..."
                             ]
                         },
                         {

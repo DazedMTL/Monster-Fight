@@ -1974,28 +1974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シャチアスパラガス："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前たちや、市民の方々には、すまないことをしたと思ってる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許されるならば、これから心を入れ替えて、償っていくつもりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時負けてから、目が覚めたよ…。"
+                                "Orca Asparagus: I feel terrible for what I've done to you\nall and the citizens... If I can be forgiven, I intend to\nchange my ways and make amends. Ever since I lost that time,\nI've had an awakening..."
                             ]
                         },
                         {
@@ -2070,28 +2049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気にするな、すべてはこれからだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々と言う者がいるのは当然だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからのお前の行い次第で、いくらでも取り返しがつくさ。"
+                                "Memimi: Don't worry about it, everything starts from now...\nIt's natural for people to have their say, but depending on\nwhat you do from here on out, there's always a chance to\nmake things right."
                             ]
                         },
                         {
@@ -2117,28 +2075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シャチアスパラガス："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すごい奴だぜ、お前は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺のせいで、AVに出演する羽目になって、街中にヤバい動画が出回っちまったのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれはちょっと、取り返しが…、もう…。"
+                                "Orca Asparagus: You're an amazing person... Because of me,\nyou ended up appearing in an adult video, and that\nscandalous footage spread all over town... That's a bit hard\nto undo... it's already..."
                             ]
                         },
                         {
@@ -2213,14 +2150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんまり言わんでくれるかな、そのことは……。"
+                                "Memimi: Could you not bring that up so much, please..."
                             ]
                         },
                         {
@@ -2351,28 +2281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よう、随分頑張ってるみたいじゃねえか、大首領様！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに来る怪人たちはみんな、お前の話題で持ちきりだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困ったことがあったら、いつでも俺たちOBに相談するんだぜ？"
+                                "Brachiocondor: Hey, you seem to be doing quite well, Boss!\nAll the monsters that come here are buzzing about you. If\nyou ever have any trouble, remember you can always consult\nus old-timers, okay?"
                             ]
                         },
                         {
@@ -2447,28 +2356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふ、無理をするな、ブラキオコンドル…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前たちはお前たちで、市役所の業務が忙しいのだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泥得市の公共機能の健全化のために、毎日働き通しらしいではないか。"
+                                "Memimi: Hehe, don't push yourself too hard, Brachiocondor...\nYou guys must be busy with your duties at the city hall,\nright? I hear you're working non-stop for the betterment of\nDorietoku City's public functions."
                             ]
                         },
                         {
@@ -2485,28 +2373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちの体力を舐めるんじゃねえぜ…、若い連中とは鍛え方が違うんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに大人ってもんは、こうやってツルんで酒でも飲んでりゃ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元気が湧いてくるもんなんだよ…。"
+                                "Brachiocondor: Don't underestimate our stamina... We train\ndifferently than the younger folks! Besides, adults get\ntheir energy from hanging out and having a few drinks\ntogether like this..."
                             ]
                         },
                         {
@@ -2588,21 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎晩酒盛りしてるな、そういえば…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公務員になったくせに、副業でバーやってるんだよな、お前…。"
+                                "Memimi: Speaking of which, you've been having drinking\nparties every night... Even though you became a civil\nservant, you're running a bar as a side job, aren't you?"
                             ]
                         },
                         {
@@ -2723,28 +2576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドリルマーメイド："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとう、シャーク大公…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャチアスパラガスとサメブロッコリーのアニキが仲違いして以来、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと辛くて…、また三人一緒でいられて、嬉しいよ…。"
+                                "Drillmaid: Thank you, Duke Shark... Ever since Orca\nAsparagus and Shark Broccoli had their falling out, it's\nbeen tough... I'm so happy we can all be together again..."
                             ]
                         },
                         {
@@ -2819,28 +2651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前も大変だったんだな、ドリルマーメイド…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからは、泥得市のために、シャチアスパラガスを支えてやってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じ女性怪人として、いろいろと相談にも乗ってほしいしな…。"
+                                "Memimi: You've had it rough too, Drillmaid... From now on,\nfor the sake of Dirt City, please support Orca Asparagus. As\na fellow female monster, I'd like you to be there for\nconsultation as well..."
                             ]
                         },
                         {
@@ -2961,28 +2772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サメブロッコリー:"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャーク大公、大首領を就任してから、私の代よりも立派にやっているようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "噂は市役所まで届いている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に、お前と出会えてよかったよ…、私は幸せ者だ…。"
+                                "Shark Broccoli: Grand Duke Shark, since you've taken over as\nthe big boss, it seems you're doing even better than my\ntime. The rumors have reached the city hall... I'm truly\nglad to have met you... I'm a fortunate man..."
                             ]
                         },
                         {
@@ -3057,28 +2847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サメブロッコリー様、もったいないお言葉です…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サメブロッコリー様たちが地盤を作っていたからこそ、今の大躍進があるのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私などまだまだ…。"
+                                "Memimi: Shark Broccoli-sama, you're too kind...! It's\nbecause you and the others laid the groundwork that we're\nable to make such great strides now. I still have much to\nlearn..."
                             ]
                         },
                         {
@@ -3111,28 +2880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブラキオコンドル："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやいや、お前の仕事ぶりは見事なもんだぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちは闇組織から少し距離を取って、市役所で市政の立て直しを頑張ってるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不良どもをお前らがまとめてくれてるおかげで、ずいぶん助かってる。"
+                                "Brachiocondor: No, no, your work has been impressive! We've\ndistanced ourselves a bit from the dark organization and are\nworking hard on municipal reform at the city hall, but\nthanks to you guys rounding up the delinquents, we've been\ngreatly helped."
                             ]
                         },
                         {
@@ -3165,21 +2913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドリルマーメイド："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちみんな、個人的にもお前に救ってもらったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誇っていいぜ…、お前は大したやつだ、ドリドリ…。"
+                                "Drillmaid: All of us, personally, have been saved by you.\nYou should be proud... You're an amazing person, Drill\nDrill..."
                             ]
                         },
                         {
@@ -3212,28 +2946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シャチアスパラガス："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その…、すまなかったな、今になって思うと、俺はどうにかしてたんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サメブロッコリーの兄貴と仲直りもできたし…、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなことをしでかした俺を、仲間に入れてくれて…、ありがとう…。"
+                                "Orca Asparagus: That... I'm sorry, looking back now, I\nrealize I was out of line... I've made up with Brother Shark\nBroccoli... Thank you for letting someone like me who caused\nsuch trouble join your ranks..."
                             ]
                         },
                         {
@@ -3308,28 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "構わんさ、サメブロッコリー様の弟分ならば、私の家族も同然だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罪を償い、やり直す気がある者を拒絶するほど、狭量ではない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人手はどれだけあっても足りないしな。"
+                                "Memimi: Don't worry about it, if you're a brother of Shark\nBroccoli-sama, then you're like family to me. I'm not so\nnarrow-minded as to reject someone who wants to atone and\nstart over... We can never have too many hands on deck."
                             ]
                         },
                         {
@@ -3362,21 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サメブロッコリー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャーク大公…、泥得学園を卒業したら、お前はどうする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を手伝ってくれるなら、公務員としてポストを開けておくが…。"
+                                "Shark Broccoli: Grand Duke Shark... after you graduate from\nDoritoku Academy, what will you do? If you're willing to\nhelp me, I'll keep a post open for you as a civil servant..."
                             ]
                         },
                         {
@@ -3393,28 +3071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます、サメブロッコリー様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は学園を卒業したら…、市役所には入らず、政治を勉強しようと思っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泥得市だけでなく、もっと大きな舞台で戦いたいと思うようになりました。"
+                                "Memimi: Thank you, Shark Broccoli-sama. After I graduate\nfrom the academy... I plan not to join the city hall but to\nstudy politics. I've come to want to fight on a bigger\nstage, not just for Doritoku City."
                             ]
                         },
                         {
@@ -3489,28 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪人としての性ですな…、こうなったら、とことん上に！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "総理大臣を目指して頑張ってみようかと思うのです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界から、悲しい思いをする少年少女が一人もいなくなるよう尽力いたします！！"
+                                "Memimi: It's in my nature as a monster... If it's come to\nthis, I'll aim for the top! I'm thinking of trying my best\nto become Prime Minister! I will do my utmost to ensure that\nnot a single boy or girl in this world has to feel sad\nanymore!!"
                             ]
                         },
                         {
@@ -3527,28 +3163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サメブロッコリー："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついにお前も、私の元を離れて一人立ちするときが来たか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャーク大公ならば、きっと実現してくれるだろう…、楽しみにしているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もそろそろ、かわいい彼女を作るという、自分の夢を追いかけよう…。"
+                                "Shark Broccoli: So the time has finally come for you to\nleave my side and stand on your own... If it's Grand Duke\nShark, I'm sure you'll make it happen... I'm looking forward\nto it. It's about time for me to chase my own dream of\nfinding a cute girlfriend..."
                             ]
                         },
                         {
@@ -3630,14 +3245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メミミ："
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そうですね…、できるといいですね、彼女…。"
+                                "Memimi: Yes, that would be nice... a girlfriend..."
                             ]
                         },
                         {

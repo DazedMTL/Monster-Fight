@@ -49,7 +49,7 @@
             }
         ],
         "gold": 0,
-        "name": "アノマロカリスモスマン",
+        "name": "Anomalocaris",
         "note": "",
         "params": [
             150,
@@ -111,7 +111,7 @@
             }
         ],
         "gold": 0,
-        "name": "ケルベロスオクトパス",
+        "name": "Cerburus Octopus",
         "note": "",
         "params": [
             300,
@@ -173,7 +173,7 @@
             }
         ],
         "gold": 0,
-        "name": "シャチ市長",
+        "name": "Orca Mayor",
         "note": "",
         "params": [
             600,
@@ -235,7 +235,7 @@
             }
         ],
         "gold": 0,
-        "name": "ダイナマイトアワビ",
+        "name": "Dynamite Abalone",
         "note": "",
         "params": [
             350,
@@ -297,7 +297,7 @@
             }
         ],
         "gold": 0,
-        "name": "シャチブロッコリー市長",
+        "name": "Mayor Orca Broccoli",
         "note": "",
         "params": [
             600,
